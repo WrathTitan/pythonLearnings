@@ -1,4 +1,7 @@
-num=int(input("Enter a number: "))
+'''
+	Code to print the divisors of a number
+'''
+num=int(input("Enter a number: "))	
 print("The divisors of this number are: ")
 mydivisors=[]
 for n in range(num):

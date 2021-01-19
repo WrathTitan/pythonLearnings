@@ -1,3 +1,7 @@
+'''
+	Rock Paper Scissors Game between 2 players
+	comparing values R,P,S using strings and if and else if conditions
+'''
 print("Welcome to a rock paper scissors game!")
 player1=input("Enter the name of player 1: ")
 player2=input("Enter the name of player 2: ")
