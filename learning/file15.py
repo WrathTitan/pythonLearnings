@@ -1,0 +1,10 @@
+random_set=set({"Educative",1408,3.142,(True,False)})
+print(len(random_set))
+print(random_set)
+
+empty_set=set()
+print(empty_set)
+empty_set.add(1)
+print(empty_set)
+empty_set.update([2,3,4,5,6])
+print(empty_set)
