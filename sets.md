@@ -1,4 +1,4 @@
-#**Sets**
+# **Sets**
 
 - Sets are unordered.
 - Set elements are unique. Duplicate elements are not allowed.
@@ -21,7 +21,7 @@ int, float, complex, string, tuple, frozen set [note: immutable version of set],
 
 **Creating a set**
 
-\######1. Directly assigning values to a set
+###### 1. Directly assigning values to a set
 
 ```python
 myset={11,12,13,14,14,14,14,15,15,16}
@@ -29,7 +29,7 @@ print(myset)
 type(myset)
 ```
 
-\######2. Using the set() constructor
+###### 2. Using the set() constructor
 
 Can be used to create an empty set. The set constructor requires an <iter> iterator.
 
@@ -39,7 +39,7 @@ print(myset)
 type(myset)
 ```
 
-######3. We can also create a set from a list or a string
+###### 3. We can also create a set from a list or a string
 
 ```python
 myset=set(['1','2','3','4'])
