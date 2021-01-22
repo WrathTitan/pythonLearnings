@@ -6,7 +6,9 @@ Head over to these links to read about them:
 
 * [Linux](www.github.com/WrathTitan)
 * [Git](www.github.com/WrathTitan)
-* [Python](www.github.com/WrathTitan)
+* Python
+  * [Python Sets](https://github.com/WrathTitan/testrepo/blob/readmes/sets.md)
+  * [Python Dictionaries](https://github.com/WrathTitan/testrepo/blob/readmes/dict.md)
 * [Markdown](www.github.com/WrathTitan)
 
 ### Steps to start contributing to this repo:
