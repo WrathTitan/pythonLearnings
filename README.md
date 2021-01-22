@@ -4,12 +4,12 @@ A repository of python programs and the collection of my learnings in linux, git
 
 Head over to these links to read about them:
 
-* [Linux](www.github.com/WrathTitan)
-* [Git](www.github.com/WrathTitan)
+* [Linux](https://github.com/WrathTitan/testrepo/blob/readmes/linuxLearnings.md)
+* [Git](https://github.com/WrathTitan/testrepo/blob/readmes/gitLearning.md)
 * Python
   * [Python Sets](https://github.com/WrathTitan/testrepo/blob/readmes/sets.md)
   * [Python Dictionaries](https://github.com/WrathTitan/testrepo/blob/readmes/dict.md)
-* [Markdown](www.github.com/WrathTitan)
+* [Markdown](https://github.com/WrathTitan/testrepo/blob/readmes/typoraLearnings.md)
 
 ### Steps to start contributing to this repo:
 
