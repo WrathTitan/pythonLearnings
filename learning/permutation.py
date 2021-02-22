@@ -1,6 +1,9 @@
 '''def mystring(str):
     return str
-print(mystring("Hello"))'''
+print(mystring("Hello"))
+Error with this program.
+String index out of range
+'''
 def mypermutation(str,num):
     mylen=len(str)
     maxcases=2**mylen
