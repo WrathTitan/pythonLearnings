@@ -1,0 +1,39 @@
+.content
+{
+	padding: 15px 15px;
+	border-style: solid;
+	max-width: 500px;
+	align: center;
+	margin:0 auto;
+}
+.outercontent
+{
+	padding: 15px 15px;
+	margin: 15px 15px;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.buttoncontent
+{
+	align-items: center;
+	padding: 1px 1px;
+	max-width: 500px;
+	align: center;
+}
+.image
+{
+	width:30px;
+	height:30px;
+	max-width:40px;
+	max-height:40px;
+}

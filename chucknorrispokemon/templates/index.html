@@ -1,0 +1,28 @@
+<html>
+<head>
+	<title>Chuck Norris API Test</title>
+	<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+<h3><u>Hello World!</u></h3>
+<u>This is a test of templates</u>
+<u>'/' this route goes to ChuckNorris API Webpage</u>
+<u>'/pokemon' this route goes to Pokemon API Webpage</u>
+<div class="outercontent">
+<div class="content">
+<p> 
+	{% if gender == "Male" %}
+		<p align="center">Welcome Mr. {{name}}</p>
+		<p align="center">Hope you're having a nice day!</p>
+		<p align="center">Here's the joke: <b>{{joke}}</b></p>
+	{% else %}
+		<p>Welcome Mrs. {{name}}</p>
+		<p>Here's the joke: {{joke}}</p>
+	{% endif %}
+	<div class="buttoncontent"><button class="button" onclick="window.location.reload()">Refresh Joke</button><div>
+</p>
+</div>
+</div>
+</body>
+</html>
+
