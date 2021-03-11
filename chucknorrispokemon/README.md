@@ -2,15 +2,15 @@
 
 Testing and creating a simply flask web app using Chuck Norris API and Pokemon API
 
-`/pokemon`endpoint goes to the page with shows random pokemons and their pictures
-
-`/ `endpoint goes to the home which shows a random joke about chuck norris
-
 To run this app make sure you have the flask installed as a dependency
 
 You can use `pip3 install flask` to install flask on your linux machine. Then use `python app.py` to start the server and copy the address or Ctrl+Left Click on the url to open the webpage.
 
 Go to the endpoints to see the web app working and using simple GET requests to render the content.
+
+`/pokemon`endpoint goes to the page with shows random pokemons and their pictures
+
+`/ `endpoint goes to the home which shows a random joke about chuck norris
 
 Folder structure:
 
