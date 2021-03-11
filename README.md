@@ -10,6 +10,8 @@ Head over to these links to read about them:
   * [Python Sets](https://github.com/WrathTitan/testrepo/blob/readmes/sets.md)
   * [Python Dictionaries](https://github.com/WrathTitan/testrepo/blob/readmes/dict.md)
 * [Markdown](https://github.com/WrathTitan/testrepo/blob/readmes/typoraLearnings.md)
+* [Numpy](https://github.com/WrathTitan/pythonLearnings/blob/readmes/numpylearnings.md)
+* [Pandas](https://github.com/WrathTitan/pythonLearnings/blob/readmes/pandaslearnings.ipynb)
 
 ### Steps to start contributing to this repo:
 
