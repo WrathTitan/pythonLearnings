@@ -1,0 +1,23 @@
+<html>
+<head>
+	<title>Pokemon API Test</title>
+	<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+<h3><u>Hello World!</u></h3>
+<u>This is a test of pokemon template</u>
+<div class="outercontent">
+<div class="content">
+<p> 
+	{% for name,id in pokemon_names %}
+		<p align="center">{{name}}
+		<img clas="image" src="https://pokeres.bastionbot.org/images/pokemon/{{id}}.png">
+		</p>
+	{% endfor %}
+	<div class="buttoncontent"><button class="button" onclick="window.location.reload()">Refresh Pokemons</button><div>
+</p>
+</div>
+</div>
+</body>
+</html>
+
