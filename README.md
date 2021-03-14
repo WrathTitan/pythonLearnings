@@ -11,7 +11,9 @@ Head over to these links to read about them:
   * [Python Dictionaries](https://github.com/WrathTitan/testrepo/blob/readmes/dict.md)
 * [Markdown](https://github.com/WrathTitan/testrepo/blob/readmes/typoraLearnings.md)
 * [Numpy](https://github.com/WrathTitan/pythonLearnings/blob/readmes/numpylearnings.md)
-* [Pandas](https://github.com/WrathTitan/pythonLearnings/blob/readmes/pandaslearnings.ipynb)
+* Pandas
+  * [Pandas Learnings](https://github.com/WrathTitan/pythonLearnings/blob/readmes/pandaslearnings.ipynb)
+  * [Pandas 10 mins tutorial](https://github.com/WrathTitan/pythonLearnings/blob/readmes/pandas10mintutorial.ipynb)
 
 ### Steps to start contributing to this repo:
 
