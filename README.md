@@ -5,15 +5,29 @@ A repository of python programs and the collection of my learnings in linux, git
 Head over to these links to read about them:
 
 * [Linux](https://github.com/WrathTitan/testrepo/blob/readmes/linuxLearnings.md)
+
 * [Git](https://github.com/WrathTitan/testrepo/blob/readmes/gitLearning.md)
+
 * Python
   * [Python Sets](https://github.com/WrathTitan/testrepo/blob/readmes/sets.md)
   * [Python Dictionaries](https://github.com/WrathTitan/testrepo/blob/readmes/dict.md)
+  
 * [Markdown](https://github.com/WrathTitan/testrepo/blob/readmes/typoraLearnings.md)
+
 * [Numpy](https://github.com/WrathTitan/pythonLearnings/blob/readmes/numpylearnings.md)
+
 * Pandas
-  * [Pandas Learnings](https://github.com/WrathTitan/pythonLearnings/blob/readmes/pandaslearnings.ipynb)
-  * [Pandas 10 mins tutorial](https://github.com/WrathTitan/pythonLearnings/blob/readmes/pandas10mintutorial.ipynb)
+  * [Pandas Learnings](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/pandaslearnings.ipynb)
+  * [Pandas 10 mins tutorial](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/pandas10mintutorial.ipynb)
+  
+  [Matplotlib Learnings](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/matplotliblearnings.ipynb)
+  
+  [Naive Bayes Learnings]()
+  
+  * [Model 1](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/naivebayes.ipynb)
+  * [Model 2](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/naivebayes2.ipynb)
+
+
 
 ### Steps to start contributing to this repo:
 
