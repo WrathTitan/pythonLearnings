@@ -19,6 +19,7 @@ Head over to these links to read about them:
   * [Naive Bayes Learnings](https://github.com/WrathTitan/pythonLearnings/blob/readmes/naivebayes.md)
     * [Model 1](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/naivebayes.ipynb)
     * [Model 2](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/naivebayes2.ipynb)
+    * [Model 3](https://github.com/WrathTitan/pythonLearnings/blob/readmes/notebooks/naivebayes3.ipynb)
 
 ---
 

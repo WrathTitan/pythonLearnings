@@ -1,0 +1,11 @@
+Weather,Car,Class,out,home,Prediction
+sunny,working,go-out,0.32,0.04,go-out
+rainy,broken,go-out,0.02,0.24,stay-home
+sunny,working,go-out,0.32,0.04,go-out
+sunny,working,go-out,0.32,0.04,go-out
+sunny,working,go-out,0.32,0.04,go-out
+rainy,broken,stay-home,0.02,0.24,stay-home
+rainy,broken,stay-home,0.02,0.24,stay-home
+sunny,working,stay-home,0.32,0.04,go-out
+sunny,broken,stay-home,0.08,0.16,stay-home
+rainy,broken,stay-home,0.02,0.24,stay-home
