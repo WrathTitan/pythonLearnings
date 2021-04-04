@@ -4,22 +4,28 @@ A repository of python programs and the collection of my learnings in linux, git
 
 Head over to these links to read about them:
 
-* [Linux](https://github.com/WrathTitan/testrepo/blob/readmes/linuxLearnings.md)
-* [Git](https://github.com/WrathTitan/testrepo/blob/readmes/gitLearning.md)
+* [Linux](https://github.com/WrathTitan/pythonLearnings/blob/readmes/markdownfiles/linuxLearnings.md)
+* [Git](https://github.com/WrathTitan/pythonLearnings/blob/readmes/markdownfiles/gitLearning.md)
 * Python
-  * [Python Sets](https://github.com/WrathTitan/testrepo/blob/readmes/sets.md)
-  * [Python Dictionaries](https://github.com/WrathTitan/testrepo/blob/readmes/dict.md)
-* [Markdown](https://github.com/WrathTitan/testrepo/blob/readmes/typoraLearnings.md)
-* [Numpy](https://github.com/WrathTitan/pythonLearnings/blob/readmes/numpylearnings.md)
+  * [Python Sets](https://github.com/WrathTitan/pythonLearnings/blob/readmes/markdownfiles/sets.md)
+  * [Python Dictionaries](https://github.com/WrathTitan/pythonLearnings/blob/readmes/markdownfiles/dict.md)
+* [Markdown](https://github.com/WrathTitan/pythonLearnings/blob/readmes/markdownfiles/typoraLearnings.md)
+* [Numpy](https://github.com/WrathTitan/pythonLearnings/blob/readmes/markdownfiles/numpylearnings.md)
 * Pandas
-  * [Pandas Learnings](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/pandaslearnings.ipynb)
-  * [Pandas 10 mins tutorial](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/pandas10mintutorial.ipynb)
-* [Matplotlib Learnings](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/matplotliblearnings.ipynb)
+  * [Pandas Learnings](https://github.com/WrathTitan/pythonLearnings/blob/readmes/notebooks/pandaslearnings.ipynb)
+  * [Pandas 10 mins tutorial](https://github.com/WrathTitan/pythonLearnings/blob/readmes/notebooks/pandas10mintutorial.ipynb)
+* [Matplotlib Learnings](https://github.com/WrathTitan/pythonLearnings/blob/readmes/notebooks/matplotliblearnings.ipynb)
 * ML Stuff
   * [Naive Bayes Learnings](https://github.com/WrathTitan/pythonLearnings/blob/readmes/naivebayes.md)
-    * [Model 1](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/naivebayes.ipynb)
-    * [Model 2](https://github.com/WrathTitan/pythonLearnings/blob/master/notebooks/naivebayes2.ipynb)
+    * [Model 1](https://github.com/WrathTitan/pythonLearnings/blob/readmes/notebooks/naivebayes.ipynb)
+    * [Model 2](https://github.com/WrathTitan/pythonLearnings/blob/readmes/notebooks/naivebayes2.ipynb)
     * [Model 3](https://github.com/WrathTitan/pythonLearnings/blob/readmes/notebooks/naivebayes3.ipynb)
+  * [Decision Tree Learning](https://github.com/WrathTitan/pythonLearnings/blob/readmes/markdownfiles/decisiontrees.md)
+    * [Decision Tree](https://github.com/WrathTitan/pythonLearnings/blob/readmes/notebooks/decisiontree.ipynb)
+  * Random Forest Learning
+    * Random Forest
+  * KNN Learning
+    * KNN
 
 ---
 
