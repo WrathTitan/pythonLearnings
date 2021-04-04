@@ -130,7 +130,40 @@ The continuous features become identical in terms of the range, after a scaling 
 
 ---
 
+# Feature Selection
 
+Add a new feature or Select best features
+
+When to get rid of features?
+* Noisy
+* Causing Overfitting
+* It is strongly related (highly correlated) with a feature that's already present
+* Too many features slow down training and testing the model
+
+---
+
+Univariate feature selection treats each feature independently and asks how much power it gives you in classifying or regressing.
+
+There are two big univariate feature selection tools in sklearn: SelectPercentile and SelectKBest. The difference is pretty apparent by the names: SelectPercentile selects the X% of features that are most powerful (where X is a parameter) and SelectKBest selects the K features that are most powerful (where K is a parameter).
+
+---
+Bias-Variance dilemma with large number of features
+
+High Bias - 
+* Pays Little Attention to Data
+* Oversimplified
+* High error on the training set
+* few features used
+
+High Variance - 
+* Pays too much attention to data (does not generalize very well)
+* Overfits
+* Much higher error on the test set than the training set
+* many features, carefully optimized performance on training data
+
+Best is to take few features, large r^2 and low Sum of Squared Error
+
+---
 
 
 
