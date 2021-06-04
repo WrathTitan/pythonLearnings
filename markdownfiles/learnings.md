@@ -316,25 +316,3 @@ On top of **Ray Core** are several libraries for solving problems in machine lea
   ![DB Comparison Table]('./dbcomparison.png')
 
 
-
-
-
-
-
-
-
-
-
-
-
-### Questions
-
-1. Since everything is residing on a different server, how do we differentiate between calls/requests that come from outside the application tier?
-   Answer from my understanding - Data tier will be on some database server let's say mongoDB then we will have credentials to login and insert/delete/update/retrieve data from there hence unauthorised access can be denied.
-2. Do we need to consider load balancing?
-   Answer from my understanding - probably not at this point, but if we are scaling in the future then it may be needed or we can use a platform that offers such services.
-3. In the model training part, there is point 6 which says - "update the config, metrics and feature DSL". What exactly are we going to change in the config file? Because if we're using pickle file, we have to use the corresponsing functions of the model. So are we storing what model was trained?
-4. Do we have to implement the models from scratch? because then only we can store intermediate weights or else we can use the same pickle file as we were using.
-5. Domain Specific Language? Is it python here because our models will be written in python hence we can use yaml file to communicate/set up the desired information.
-6. What all languages/modules/softwares will we be using?
-7. 
