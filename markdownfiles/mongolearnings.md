@@ -234,6 +234,29 @@ db.posts.insertMany([
 
 ---
 
+### Deleting
+
+* To drop a database we switch to that database using `use dbname` and then we use the following:
+
+  ```json
+  db.dropDatabase()
+  ```
+
+* To drop a collection we switch to the desired database using `use dbname` and then we write the collection name in place of the `collection` word by typing the following:
+
+  ```json
+  db.collection.drop()
+  ```
+
+* To delete documents from a collection we can use `deleteOne` or `deleteMany` like:
+
+  ```json
+  db.movies.deleteOne({cast:"ActorName"})
+  db.movies.deleteMany({views:5})
+  ```
+
+---
+
 ## Pymongo
 
 This is the python mongodb library. It allows interaction of the MongoDB database using Python.

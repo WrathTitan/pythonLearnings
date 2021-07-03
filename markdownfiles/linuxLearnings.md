@@ -122,6 +122,28 @@ sudo aptitude search xx
 nan -> To get tips on any command and the u to exit it. Ex: nan ls
 or --help  to get help on a command. Ex ls --help
 
+---
+
+* Ctrl+C is used to kill a process 
+
+* Ctrl+Z is used to suspend a process - but it runs in the background
+  We can use `fg` to run the process again in the foreground. or `bg` in the background
+
+* `jobs` command can be used to see the currently active processes. It gives output like this:
+
+  ```
+  [1]- Stopped cat
+  [2]+ Stopped vi
+  ```
+
+  We can use the `kill` command to kill a suspended process in the background
+
+* ```
+  kill %n
+  ```
+
+  The above command can be used to kill a suspended process in the background using the number `n` shown by the `jobs` command.
+
 
 
 
