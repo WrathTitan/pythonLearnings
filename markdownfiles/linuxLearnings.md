@@ -144,6 +144,56 @@ or --help  to get help on a command. Ex ls --help
 
   The above command can be used to kill a suspended process in the background using the number `n` shown by the `jobs` command.
 
+---
+
+### Shell Scripts 
+
+* Shell scripts start with #!/bin/bash if they use bash terminal or else #!/bin/sh
+
+  ```shell
+  #!/bin/sh
+  #To Start MongoDB Server
+  sudo systemctl start mongod
+  #To Activate the Virtual Environment
+  . venv/bin/activate
+  #To Start React - Frontend Server
+  /bin/sh -ec 'cd Frontend/pr21 && npm start &'
+  #To Start FastAPI - Backend Server
+  /bin/sh -ec 'python3 api.py'
+  ```
+  
+  The `&` at the end of `/bin/sh -ec 'cd Frontend/pr21 && npm start &'` signifies that this process runs in the background.
+
+* On Ubuntu to find a process running in the background in some port for example port 3000 we do this:
+
+  ```shell
+  lsof -i tcp:3000
+  kill -9 PID
+  ```
+
+* On Windows to do the same:
+
+  ```shell
+  netstat -ano | findstr :3000
+  tskill typeyourPIDhere
+  ```
+
+  Change `tskill` to `taskkill` in git bash.
+
+---
+
+* We can use `ps -a` to list all active processes in ubuntu. It shows the PID (Processs ID's associated with each active process).
+  We can use the PID to terminate/kill the process using `kill -9 PID`
+
+  ```shell
+  ps -a
+  kill -9 PID
+  ```
+
+* We can also use `jobs` command to see the current active jobs in the system.
+
+---
+
 
 
 
